@@ -2,4 +2,4 @@
 
 https://aiohttp-demos.readthedocs.io/en/latest/tutorial.html
 
-    python main.py
+    python aiohttpdemo_polls/main.py

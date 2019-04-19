@@ -1,3 +1,6 @@
-__pycashe__/
+
+*/__pycashe__/
 
 env/
+
+config/
